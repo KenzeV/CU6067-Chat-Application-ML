@@ -7,7 +7,7 @@ using UnityEngine;
 //Hosts TCP Connection and sends/recieves chat messages
 public class ServerService : MonoBehaviour
 {
-    private IPAddress serverIp = IPAddress.Parse("127.0.0.1");
+    //private IPAddress serverIp = IPAddress.Parse("127.0.0.1");
     private int port = 13000;
     private TcpListener server;
     private TcpClient client;
@@ -24,13 +24,14 @@ public class ServerService : MonoBehaviour
         //CreateServer();
     }
     //Starts TCP listener and thread used to accept a client and receive messages
-    public void CreateServer()
+    public void CreateServer(string serverIP)
     {
         if (isRunning)
         {
             return;
         }
-        server = new TcpListener(serverIp, port);
+        server = new TcpListener(IPAddress.Parse(serverIP), port);
+        //server = new TcpListener(serverIp, port);
         Debug.Log("SERVER :: Created");
         server.Start();
         Debug.Log("SERVER :: Started");

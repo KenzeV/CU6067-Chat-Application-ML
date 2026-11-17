@@ -42,8 +42,8 @@ public class ChatUI : MonoBehaviour
     //Begins hosting and opens chat screen while waiting for client to connect
     public void HostServer()
     {
-        
-        serverService.CreateServer();
+        serverService.CreateServer(serverIPInput.text.Trim());
+        //serverService.CreateServer(); testing above
         isServer = true;
         ShowChat();
         AddMessage("Server started. Waiting for a client...");
