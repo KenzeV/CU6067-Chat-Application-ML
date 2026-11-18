@@ -1,3 +1,4 @@
+To do list:
 Remove server ACK Message on client
 Make enter send a message. 
 Create documentation
