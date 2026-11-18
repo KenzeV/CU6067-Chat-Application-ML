@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2048
     height: 1117.6
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -594,7 +594,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -604,7 +604,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Michael\Desktop\GitHub\CU6067-Chat-Application-ML\Assignment
     1 - Chat Application
@@ -614,12 +614,12 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 47350
+    - m_Data: 47398
     m_LastClickedID:
-      m_Data: 47350
+      m_Data: 47398
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 47264
+    - m_Data: 47260
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -654,7 +654,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 47264
+    - m_Data: 47260
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -681,8 +681,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 39672
+    m_LastClickedInstanceID: 39672
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -806,13 +807,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: 39672
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -4108
-      - m_Data: -3778
-      - m_Data: -3122
+      - m_Data: -4900
+      - m_Data: -4630
+      - m_Data: -3958
+      - m_Data: -2402
       - m_Data: -1340
       m_RenameOverlay:
         m_UserAcceptedRename: 0

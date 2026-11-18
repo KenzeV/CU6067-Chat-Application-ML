@@ -61,10 +61,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.19f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Scripts\UnityMainThreadDispatcher.cs" />
-    <Compile Include="Assets\Scenes\Scripts\ChatUI.cs" />
-    <Compile Include="Assets\Scenes\Scripts\ServerService.cs" />
-    <Compile Include="Assets\Scenes\Scripts\ClientService.cs" />
+    <Compile Include="Assets\Scripts\ChatUI.cs" />
+    <Compile Include="Assets\Scripts\ClientService.cs" />
+    <Compile Include="Assets\Scripts\UnityMainThreadDispatcher.cs" />
+    <Compile Include="Assets\Scripts\ServerService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

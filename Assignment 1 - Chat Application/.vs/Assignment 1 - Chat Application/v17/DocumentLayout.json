@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\",
+  "WorkspaceRootPath": "C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|c:\\users\\michael\\desktop\\uni slides\\networking for games\\assignment 1 - chat application\\assets\\scripts\\chatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|c:\\users\\michael\\desktop\\github\\cu6067-chat-application-ml\\assignment 1 - chat application\\assets\\scripts\\chatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\assets\\scripts\\serverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\assets\\scripts\\serverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\serverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\assets\\scripts\\unitymainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\assets\\scripts\\unitymainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitymainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\assets\\scripts\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\assets\\scripts\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DF0819A-13C2-B346-B7E8-6CE0AB30E629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ChatUI.cs",
-              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\Assets\\Scripts\\ChatUI.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\Assets\\Scripts\\ChatUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChatUI.cs",
-              "ToolTip": "C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\Assets\\Scripts\\ChatUI.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\Assets\\Scripts\\ChatUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\ChatUI.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwGoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-31T15:59:44.584Z",
               "EditorCaption": ""
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UnityMainThreadDispatcher.cs",
-              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\Assets\\Scripts\\UnityMainThreadDispatcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnityMainThreadDispatcher.cs",
-              "ToolTip": "C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\Assets\\Scripts\\UnityMainThreadDispatcher.cs",
               "RelativeToolTip": "Assets\\Scripts\\UnityMainThreadDispatcher.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAIwFYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,11 +61,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ServerService.cs",
-              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\Assets\\Scripts\\ServerService.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\Assets\\Scripts\\ServerService.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ServerService.cs",
-              "ToolTip": "C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\Assets\\Scripts\\ServerService.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\Assets\\Scripts\\ServerService.cs",
               "RelativeToolTip": "Assets\\Scripts\\ServerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwFAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-31T15:55:59.998Z",
               "EditorCaption": ""
@@ -74,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ClientService.cs",
-              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\Assets\\Scripts\\ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\Assets\\Scripts\\ClientService.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ClientService.cs",
-              "ToolTip": "C:\\Users\\Michael\\Desktop\\Uni Slides\\Networking for games\\Assignment 1 - Chat Application\\Assets\\Scripts\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\GitHub\\CU6067-Chat-Application-ML\\Assignment 1 - Chat Application\\Assets\\Scripts\\ClientService.cs",
               "RelativeToolTip": "Assets\\Scripts\\ClientService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowDQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
