@@ -23,7 +23,7 @@ public class ChatUI : MonoBehaviour
     [SerializeField] private ClientService clientService;
     
 
-    //Shows connection screen -- maybe not needed!!!
+    //Shows connection screen 
 
     private void Start()
     {
@@ -36,14 +36,13 @@ public class ChatUI : MonoBehaviour
 
         statusText.text = "Status: Not connected";
 
-        messageInput.lineType = TMP_InputField.LineType.SingleLine; // test for 
+        messageInput.lineType = TMP_InputField.LineType.SingleLine; 
         messageInput.onSubmit.AddListener(text => SendMessage());
     }
     //Begins hosting and opens chat screen while waiting for client to connect
     public void HostServer()
     {
         serverService.CreateServer(serverIPInput.text.Trim());
-        //serverService.CreateServer(); testing above
         isServer = true;
         ShowChat();
         AddMessage("Server started. Waiting for a client...");
@@ -64,7 +63,7 @@ public class ChatUI : MonoBehaviour
 
     }
 
-    //Switches to chatpanel and clears previous chat history - !!! MAYBE NOT NEEDED
+    //Switches to chatpanel and clears previous chat history
     private void ShowChat()
     {
         connectionPanel.SetActive(false);
